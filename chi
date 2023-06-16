@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8">
+        <title>home</title>
+        <link rel="stylesheet" href="myhome.css">
+    </head>
+    <body>
+        <div>
+              <p>你知道其實亂掃描來路不明的QRcode
+                很容易讓你中毒嗎
+              </p>
 
+        </div>
+        
+    </body>
+</html>
